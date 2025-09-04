@@ -1,0 +1,5 @@
+basel@gmail.com:123456
+basel@work.com:123456
+test@example.com:Qwerty@123
+user@yahoo.com:Password!1
+admin@server.com:Password!1

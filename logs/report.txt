@@ -1,0 +1,6 @@
+[2025-09-04 17:04:45] [Password Reuse] ⚠️ Password reused for: basel@gmail.com, basel@work.com
+[2025-09-04 17:04:45] [Password Reuse] ⚠️ Password reused for: user@yahoo.com, admin@server.com
+[2025-09-04 17:05:18] [Strength] ❌ Weak password: 123
+[2025-09-04 17:05:35] [Strength] ❌ Weak password: bakjdbiydiuywSSS@@#12333
+[2025-09-04 17:06:35] [Strength] ❌ Weak password: &Basssl@1277233&&&#
+[2025-09-04 17:11:03] [Generator] 🔑 Generated password: ymp!y9%*ZLdyC6lk
